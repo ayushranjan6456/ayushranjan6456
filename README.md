@@ -94,7 +94,7 @@ Check out the GitHub repository:
 
 <img  src="https://github-readme-stats.vercel.app/api?username=ayushranjan6456&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
 
-  
+<br>
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushranjan6456&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
 
