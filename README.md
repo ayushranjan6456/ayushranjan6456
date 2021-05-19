@@ -17,7 +17,7 @@
 
 - I also love to participate with my team in hackathons and test my prowess in the limited time frame.
 
-- Apart from MERN staack, I also have beginner's knowledge in Flask, Firebase and SQL.
+- Apart from MERN stack, I also have beginner's knowledge in Flask, Firebase and SQL.
 
 - I'm currently actively learning REACT framework.
 
