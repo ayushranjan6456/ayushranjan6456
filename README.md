@@ -6,12 +6,11 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ayushranjan6456)](https://github.com/ayushranjan6456) [![GitHub followers](https://img.shields.io/github/followers/ayushranjan6456.svg?style=social&label=Follow)](https://github.com/ayushranjan6456?tab=followers)
 
-
 <h2>Hey! there👋</h2>
 
 - I am an aspiring MERN stack web developer with a keen interest in DEVOPS and latest web technologies.
 
--  <i>Currently:</i> B. Tech Student at Vellore Institute of Technology, Vellore. 
+- <i>Currently:</i> B. Tech Student at Vellore Institute of Technology, Vellore.
 
 - I have fairly working knowledge on building Restful APIs using NodeJS, ExpressJS and MongoDB
 
@@ -29,7 +28,7 @@
 
 - Object Oriented Programming using C++
 
-- Data Structures and Algorithms 
+- Data Structures and Algorithms
 
 - Operating Systems
 
@@ -86,20 +85,18 @@ Check out the GitHub repository:
 <!--<b><em>Overall GitHub Stats:</em></b> <br/>-->
 
 <div align="center">
-<img width=49% src="https://github-readme-streak-stats.herokuapp.com/?user=ayushranjan6456&&show_icons=true&&theme=algolia"  alt="GitHub Stats" />
-<img width=49% src="https://github-readme-stats.vercel.app/api?username=ayushranjan6456&&show_icons=true&theme=algolia">
+<img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=ayushranjan6456&&show_icons=true&&theme=algolia"  alt="GitHub Stats" />
+<img width=400 src="https://github-readme-stats.vercel.app/api?username=ayushranjan6456&&show_icons=true&theme=algolia">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushranjan6456&layout=compact&hide_border=false&&show_icons=true&&theme=algolia"><br><br>
 
 <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=ayushranjan6456&&show_icons=true&&theme=algolia" alt="WakaTime" />
 
 <br>
 
-
   </div>
 </p>
 
 </div>
-
 
 <h2>📫 Reach out me:</h2>
 
