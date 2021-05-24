@@ -49,19 +49,19 @@
 
 Check out the GitHub repository:
 
-<div>
+<div align="center">
 
 <p>
 
 <a  href="https://github.com/ayushranjan6456/Infographs">
 
-<img  src="https://github-readme-stats.vercel.app/api/pin/?username=ayushranjan6456&repo=Infographs&show_owner=True"  alt="GitHub Stats" />
+<img  width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=ayushranjan6456&repo=Infographs&show_owner=True&theme=algolia"  alt="GitHub Stats" />
 
 </a>
 
 <a  href="https://github.com/ayushranjan6456/EduRecruit">
 
-<img  src="https://github-readme-stats.vercel.app/api/pin/?username=ayushranjan6456&repo=EduRecruit&show_owner=True"  alt="GitHub Stats" />
+<img width=49%  src="https://github-readme-stats.vercel.app/api/pin/?username=ayushranjan6456&repo=EduRecruit&show_owner=True&theme=algolia"  alt="GitHub Stats" />
 
 </a>
 
@@ -83,21 +83,19 @@ Check out the GitHub repository:
 
 <p align="center">
 
-<b><em>Overall GitHub Stats:</em></b> <br/>
+<!--<b><em>Overall GitHub Stats:</em></b> <br/>-->
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ayushranjan6456"  alt="GitHub Stats" /> <br/><br/>
+<div align="center">
+<img width=49% src="https://github-readme-streak-stats.herokuapp.com/?user=ayushranjan6456&&show_icons=true&&theme=algolia"  alt="GitHub Stats" />
+<img width=49% src="https://github-readme-stats.vercel.app/api?username=ayushranjan6456&&show_icons=true&theme=algolia">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushranjan6456&layout=compact&hide_border=false&&show_icons=true&&theme=algolia"><br><br>
 
-
-<img  src="https://github-readme-stats.vercel.app/api/wakatime?username=ayushranjan6456&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919" alt="WakaTime" />
-
-  
-
-<img  src="https://github-readme-stats.vercel.app/api?username=ayushranjan6456&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
+<img  src="https://github-readme-stats.vercel.app/api/wakatime?username=ayushranjan6456&&show_icons=true&&theme=algolia" alt="WakaTime" />
 
 <br>
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushranjan6456&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
 
+  </div>
 </p>
 
 </div>
