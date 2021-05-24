@@ -54,13 +54,13 @@ Check out the GitHub repository:
 
 <a  href="https://github.com/ayushranjan6456/Infographs">
 
-<img  width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=ayushranjan6456&repo=Infographs&show_owner=True&theme=algolia"  alt="GitHub Stats" />
+<img  width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=ayushranjan6456&repo=Infographs&show_owner=True&theme=midnight-purple"  alt="GitHub Stats" />
 
 </a>
 
 <a  href="https://github.com/ayushranjan6456/EduRecruit">
 
-<img width=49%  src="https://github-readme-stats.vercel.app/api/pin/?username=ayushranjan6456&repo=EduRecruit&show_owner=True&theme=algolia"  alt="GitHub Stats" />
+<img width=49%  src="https://github-readme-stats.vercel.app/api/pin/?username=ayushranjan6456&repo=EduRecruit&show_owner=True&theme=midnight-purple"  alt="GitHub Stats" />
 
 </a>
 
@@ -85,19 +85,24 @@ Check out the GitHub repository:
 <!--<b><em>Overall GitHub Stats:</em></b> <br/>-->
 
 <div align="center">
-<img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=ayushranjan6456&&show_icons=true&&theme=algolia"  alt="GitHub Stats" />
-<img width=400 src="https://github-readme-stats.vercel.app/api?username=ayushranjan6456&&show_icons=true&theme=algolia">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushranjan6456&layout=compact&hide_border=false&&show_icons=true&&theme=algolia"><br><br>
+<img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=ayushranjan6456&&show_icons=true&&theme=midnight-purple"  alt="GitHub Stats" />
+<img width=400 src="https://github-readme-stats.vercel.app/api?username=ayushranjan6456&&show_icons=true&theme=midnight-purple">
+<img width=400 height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushranjan6456&layout=compact&hide_border=false&&show_icons=true&&theme=midnight-purple">
 
-<img  src="https://github-readme-stats.vercel.app/api/wakatime?username=ayushranjan6456&&show_icons=true&&theme=algolia" alt="WakaTime" />
+<img width=400 height=190  src="https://github-readme-stats.vercel.app/api/wakatime?username=ayushranjan6456&custom_title=My%20Weekly%20Stats&layout=compact&theme=midnight-purple" alt="WakaTime" />
 
 <br>
-
-  </div>
+<img width="800" height="auto" src="https://activity-graph.herokuapp.com/graph?username=ayushranjan6456&bg_color=1a1b27&color=fff&line=7d39cb&point=7849e2&area=true" alt="Daily Contribution Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushranjan6456&theme=monokai"  width="800" height="auto"  alt="Monthly Contribution Graph" >
+</div>
 </p>
 
 </div>
 
 <h2>📫 Reach out me:</h2>
+<div align="center">
 
-<a  href="mailto:WriteTo@ayushranjan6456@gmail.com">![WriteTo@ayushranjan6456@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a  href="https://www.linkedin.com/in/ayushranjan6456/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a  href="https://www.instagram.com/ayush.ranjan02/">![Instagram](https://img.shields.io/badge/Instagram-88128f?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="mailto:WriteTo@ayushranjan6456@gmail.com">![WriteTo@ayushranjan6456@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a  href="https://www.instagram.com/ayush.ranjan02/">![Twitter](https://img.shields.io/badge/Github-333?style=for-the-badge&logo=github&logoColor=white)</a> <a  href="https://www.linkedin.com/in/ayushranjan6456/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a  href="https://medium.com/@ayushranjan6456">![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)</a>
+<a  href="https://www.instagram.com/ayush.ranjan02/">![Instagram](https://img.shields.io/badge/Instagram-88128f?style=for-the-badge&logo=instagram&logoColor=white)</a> <a  href="https://twitter.com/ayushranjan6456">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+
+</div>
