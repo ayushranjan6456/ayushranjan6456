@@ -55,13 +55,13 @@ Check out the GitHub repository:
 
 <a  href="https://github.com/ayushranjan6456/Infographs">
 
-<img  width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=ayushranjan6456&repo=Infographs&show_owner=True&theme=midnight-purple"  alt="GitHub Stats" />
+<img  width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=ayushranjan6456&repo=Infographs&show_owner=True&theme=algolia"  alt="GitHub Stats" />
 
 </a>
 
 <a  href="https://github.com/ayushranjan6456/EduRecruit">
 
-<img width=49%  src="https://github-readme-stats.vercel.app/api/pin/?username=ayushranjan6456&repo=EduRecruit&show_owner=True&theme=midnight-purple"  alt="GitHub Stats" />
+<img width=49%  src="https://github-readme-stats.vercel.app/api/pin/?username=ayushranjan6456&repo=EduRecruit&show_owner=True&theme=algolia"  alt="GitHub Stats" />
 
 </a>
 
@@ -86,15 +86,15 @@ Check out the GitHub repository:
 <!--<b><em>Overall GitHub Stats:</em></b> <br/>-->
 
 <div align="center">
-<img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=ayushranjan6456&&show_icons=true&&theme=midnight-purple"  alt="GitHub Stats" />
-<img width=400 src="https://github-readme-stats.vercel.app/api?username=ayushranjan6456&&show_icons=true&theme=midnight-purple">
-<img width=400 height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushranjan6456&layout=compact&hide_border=false&&show_icons=true&&theme=midnight-purple">
+<img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=ayushranjan6456&&show_icons=true&&theme=algolia"  alt="GitHub Stats" />
+<img width=400 src="https://github-readme-stats.vercel.app/api?username=ayushranjan6456&&show_icons=true&theme=algolia">
+<img width=400 height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushranjan6456&layout=compact&hide_border=false&&show_icons=true&&theme=algolia">
 
-<img width=400 height=190  src="https://github-readme-stats.vercel.app/api/wakatime?username=ayushranjan6456&custom_title=My%20Weekly%20Stats&layout=compact&theme=midnight-purple" alt="WakaTime" />
+<img width=400 height=190  src="https://github-readme-stats.vercel.app/api/wakatime?username=ayushranjan6456&custom_title=My%20Weekly%20Stats&layout=compact&theme=algolia" alt="WakaTime" />
 
 <br>
-<img width="800" height="auto" src="https://activity-graph.herokuapp.com/graph?username=ayushranjan6456&bg_color=1a1b27&color=fff&line=7d39cb&point=7849e2&area=true" alt="Daily Contribution Graph" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushranjan6456&theme=monokai"  width="800" height="auto"  alt="Monthly Contribution Graph" >
+<img width="800" height="auto" src="https://activity-graph.herokuapp.com/graph?username=ayushranjan6456&bg_color=050f2c&color=fff&line=0194dd&point=5194f0&area=true" alt="Daily Contribution Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushranjan6456&theme=nord_bright"  width="800" height="auto"  alt="Monthly Contribution Graph" >
 </div>
 </p>
 
