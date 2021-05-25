@@ -43,6 +43,10 @@
 
 <h2>Currently working on:</h2>
 
+<h4>React ⚛️</h4>
+
+**React** is a repository made by me where I record all my progress while following the React Course: React-the Complete Guide (incl Hooks, React Router, Redux) by Maxmilian Schwarzmuller. I save all the checkpoints and the projects made my me while coding along with the instructor in the repo. 
+
 <h4>Infographs 📊</h4>
 
 **Infographs** is a project which my team and I developed in April for a hack-a-thon season get proficient in Machine Learning and Deep Learning by building 100 Projects with increasing complexity, over a period of two years.
