@@ -1,4 +1,5 @@
-<!-- ![Ayush Ranjan Banner Image](./banner.png) -->
+![Ayush Ranjan Banner Image](./banner.png)
+
 
 <h2 align='center'>Ayush Ranjan @ ayushranjan6456</h2>
 
