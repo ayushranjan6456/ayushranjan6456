@@ -57,9 +57,9 @@ Check out the GitHub repository:
 
 <p>
 
-<a  href="https://github.com/ayushranjan6456/Infographs">
+<a  href="https://github.com/ayushranjan6456/Visara">
 
-<img  width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=ayushranjan6456&repo=Infographs&show_owner=True&theme=algolia"  alt="GitHub Stats" />
+<img  width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=ayushranjan6456&repo=Visara&show_owner=True&theme=algolia"  alt="GitHub Stats" />
 
 </a>
 
